@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringJwtSecurityApplication<spring-jwt-security>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.quangnt.jwt.api.SpringJwtSecurityApplication",
+            "projectName": "spring-jwt-security",
+            "args": ""
+        }
+    ]
+}
